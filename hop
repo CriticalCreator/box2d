@@ -1,0 +1,8 @@
+ ImGui::Text("One\nTwo\nThree");
+
+        ImGui::Button("HOP##1"); ImGui::SameLine();
+        ImGui::Text("Banana"); ImGui::SameLine();
+        ImGui::Text("Banana");
+
+        ImGui::Button("HOP##2"); ImGui::SameLine();
+        ImGui::Text("Hello\nWorld"); ImGui::SameLine();
